@@ -1,0 +1,16 @@
+{
+  "automoveis": [
+    {
+      "marca": "Audi",
+      "modelo": "A7",
+      "versao": "AST",
+      "id": 4
+    },
+    {
+      "marca": "Audi2",
+      "modelo": "A7-2",
+      "versao": "AST 2",
+      "id": 5
+    }
+  ]
+}
